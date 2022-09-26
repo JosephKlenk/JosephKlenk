@@ -19,22 +19,22 @@
 
 <ul>
    <li>
-    <a href="jklenk.com" target="_blank">Coming Soon</a>
+    <a href="https://jklenk.com" target="_blank">Coming Soon</a>
   </li>
   <li>
-    <a href="jklenk.com" target="_blank">Coming Soon</a>
+    <a href="https://jklenk.com" target="_blank">Coming Soon</a>
   </li>
    <li>
-    <a href="jklenk.com" target="_blank">Coming Soon</a>
+    <a href="https://jklenk.com" target="_blank">Coming Soon</a>
   </li>
    <li>
-    <a href="jklenk.com" target="_blank">Coming Soon</a>
+    <a href="https://jklenk.com" target="_blank">Coming Soon</a>
   </li>
    <li>
-    <a href="jklenk.com" target="_blank">Coming Soon</a>
+    <a href="https://jklenk.com" target="_blank">Coming Soon</a>
   </li>
    <li>
-    <a href="jklenk.com" target="_blank">Coming Soon</a>
+    <a href="https://jklenk.com" target="_blank">Coming Soon</a>
   </li>
 </ul>
 
