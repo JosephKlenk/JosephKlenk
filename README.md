@@ -1,6 +1,6 @@
-![GitHub Image](https://user-images.githubusercontent.com/97313389/192351185-2e959686-7664-4913-8cbc-1f4803d4cd0e.jpg)
+![GitHub Image](https://user-images.githubusercontent.com/97313389/192351743-2b229d71-a067-4e37-9f95-733092832e82.png)
 
-<h1>Hey, I'm Joseph Klenk. 👋</h1>
+<h1>Hey, I'm Joseph Klenk 👋</h1>
 
 <p>I'm a software engineer from New Jersey. I make videos on YouTube, TikTok, and Instagram about all sorts of things.</p>
 
