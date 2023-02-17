@@ -40,6 +40,6 @@
 
 <h2>What I'm Working On</h2>
 
-<p>My main goal right now is to graduate college with a Computer Science degree and pursue a career in Software Engineering. Currently looking for summer internships for 2023.<p>
+<p>My main goal right now is to graduate college with a Computer Science degree and pursue a career in Software Engineering. Currently looking for summer internships for 2024.<p>
   
 <p>For the last couple of months I have been starting my content creation journey. I will cover a variety of topics and document my process from becoming a broke college student into finacial freedom <a href="https://www.youtube.com/channel/UCLQuDWVWlKUUDoKAyAXF8wg" target="_blank">intro to youtube</a>, but definitely expect more content to come 🔥</p>
