@@ -7,7 +7,7 @@
 <p>I mainly talk about career related content, personal finance, peronsal development and much much more. </p>
 
 <p>
-  <a href="https://linktr.ee/jklenk" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="https://www.josephklenk.com/links" target="_blank"><img alt="All Links" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@JosephKlenk" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UCLQuDWVWlKUUDoKAyAXF8wg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.instagram.com/joseph.klenk/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
